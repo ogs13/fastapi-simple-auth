@@ -4,3 +4,5 @@ a simple application to demonstrate the possibility of user authorization with t
 
 the application can be run through Docker.
 to run the application, just download and unpack the archive and run the command docker-compose up --build 
+
+the service will be available at http: 127.0.0.1/docs 

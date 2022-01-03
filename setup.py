@@ -9,5 +9,5 @@ setup(
         'pytest',
         'requests',
     ],
-    scripts=['main.py','create_db.py']
+    scripts=['app/main.py','create_db.py']
 )
